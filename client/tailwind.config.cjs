@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       screens: {
-        xs: '480px',
+        xs: '320px',
       },
       fontFamily: {
         inter: ['Inter var', 'sans-serif'],
